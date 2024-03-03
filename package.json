@@ -1,0 +1,26 @@
+{
+"name": "dancingbutterflieslyanxyz",
+"version": "1.0.0",
+"description": "This project demonstrates a simple JavaScript implementation to generate dancing butterflies on a webpage. The butterflies flutter around gracefully within a specified container, creating a visually appealing effect.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/IyanXyz/DancingButterflies.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "IyanXyz",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
